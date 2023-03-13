@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Mukul Bhutani. Currently, I am working as a Software Engineer, working on recommendation at Google. Previously, I was Applied Research Engineer in Apple’s search science team for Appstore. Prior to that I graduated with a Master’s degree from Carnegie Mellon University.  The exact name of the program that I was enrolled in was: “Masters in Language Technologies”. It basically means that I got to study and do research in machine learning and NLP. Prior to that, I had a brief stint as a project assistant under Dr. Partha Talukdar.  Even before to that, I was working as a dev at Amazon, Bangalore,  in the India Machine Learning team headed by Rajeev Rastogi.
+Hi, I am Mukul Bhutani. Currently, I am working as a Software Engineer, working on recommendation at Google. Previously, I was Applied Research Engineer in Apple’s search science team for Appstore. Prior to that I graduated with a Master’s degree from Carnegie Mellon University.  The exact name of the program that I was enrolled in was: “Masters in Language Technologies”. It basically means that I got to study and do research in machine learning and NLP. Prior to that, I had a brief stint as a project assistant under Dr. Partha Talukdar.  Even before to that, I was working as a dev at Amazon, Bangalore,  in the India Machine Learning team headed by Rajeev Rastogi.
 
 <br/>
 Apart, from science, my other interests include: 
