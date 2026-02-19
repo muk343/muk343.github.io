@@ -164,7 +164,7 @@ collections:
   news:
     defaults:
       layout: page
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
     output: false
