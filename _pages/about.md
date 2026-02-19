@@ -14,15 +14,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Mukul Bhutani. I am currently working as a Software Engineer at Google. We use machine learning to do personalized recommendations and surface right content to a user at the right time. Previously, I was Applied Research Engineer in Apple’s search science team for Appstore. In essence, if you have used a smartphone in the past two years, somewhere or the other you have touched my code.  
+Hi, I am Mukul Bhutani. I am currently a research engineer at Google DeepMind. I have been a core contributor to Google DeepMind's foundational models like [Veo 3](https://deepmind.google/models/veo/), [Imagen](https://deepmind.google/models/imagen/), and [Gemini 2.5](https://arxiv.org/abs/2507.06261). My research focusses on making these models safe and responsible. 
 
-Prior to that I graduated with a Master’s degree from [Language Technology Institude](https://www.lti.cs.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/) at  [Carnegie Mellon University](https://www.cmu.edu/). The exact name of my program was: “Masters in Language Technologies”. It basically means that I got to study and do research work in machine learning and NLP. There, I got a chance to work with great set of peers and an amazing set of professors including [Zico Kolter](https://zicokolter.com/), [Alan Black](http://www.cs.cmu.edu/~awb/), and [Alex Rudnicky](http://www.cs.cmu.edu/~air/). Prior to that, I had a brief stint as a project assistant under [Dr. Partha Talukdar](https://parthatalukdar.github.io/) at [IISc](https://iisc.ac.in/). 
+I graduated with a Master’s degree from [Language Technology Institude](https://www.lti.cs.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/) at  [Carnegie Mellon University](https://www.cmu.edu/). There, I got a chance to work with great set of peers and an amazing set of professors including [Zico Kolter](https://zicokolter.com/), [Alan Black](http://www.cs.cmu.edu/~awb/), and [Alex Rudnicky](http://www.cs.cmu.edu/~air/). Prior to that, I had a brief stint as a project assistant under [Dr. Partha Talukdar](https://parthatalukdar.github.io/) at [IISc](https://iisc.ac.in/). 
 In what seems like a previous lifetime, I was working as a software dev at Amazon, Bangalore, in the India Machine Learning team. There, I had a great fortune to work with [Arijit Biswas](https://www.linkedin.com/in/arijit-biswas-46690236/), [Subhajit Sanyal](https://www.linkedin.com/in/subhajitsanyal/), and [Bamdev Mishra](https://bamdevmishra.in/).  
 
-My research thoughts focus on developing algorithms for machine learning, optimization, and NLP. Lately I have been pondering about methods to study how machines can mimic humans in congitive and reasoning tasks, especially those related to language.
 
 <br/>
-Apart, from science, my other interests include writing poems (as well as prose) and running (ok… it's more of *trying* to get back into running :P).
+Apart, from science, my other interests include writing poems and running.
 
 [//]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
